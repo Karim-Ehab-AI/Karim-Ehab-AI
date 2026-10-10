@@ -47,7 +47,7 @@ A bilingual first-aid assistant powered by RAG and hybrid retrieval.
 - Independent document parsing and embedding services.
 - Evaluation using Ragas.
 
-**Results:** 98% Answer Relevancy | 1.0 Faithfulness across 25 evaluation queries.
+**Results:** 98% Answer Relevancy | 0.96 Faithfulness across 25 evaluation queries.
 
 [View Repository](https://github.com/Karim-Ehab-AI/AI-First-Aid-Assistant)
 
