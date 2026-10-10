@@ -62,8 +62,3 @@ A bilingual first-aid assistant powered by RAG and hybrid retrieval.
 **Data:** Qdrant, Pinecone, MongoDB, SQL
 
 **ML & Cloud:** PyTorch, Hugging Face, Microsoft Azure, Docker
-
-## Contribution Activity
-
-![Contribution Snake](https://raw.githubusercontent.com/Karim-Ehab-AI/Karim-Ehab-AI/output/github-snake-dark.svg)
-
